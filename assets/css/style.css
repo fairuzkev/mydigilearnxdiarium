@@ -970,7 +970,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #5846f9;
+  background: #f94646;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -986,7 +986,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(88, 70, 249, 0.8);
+  background: rgba(249, 70, 70, 0.8);
   position: absolute;
   left: 30px;
   right: 30px;
